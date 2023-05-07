@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "665388679844",
+    "project_id": "labs-fcf8c",
+    "storage_bucket": "labs-fcf8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665388679844:android:eb6e14ceff2018aeb51c31",
+        "android_client_info": {
+          "package_name": "com.adamsolomon.bcs_421_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665388679844-ho7eqffb9gvovfhmpjf74rp2f6uj8756.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamsolomon.bcs_421_final_project",
+            "certificate_hash": "b0038b8f2667a4187e7d36732b1875c5408b48f3"
+          }
+        },
+        {
+          "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0XCjLd3RLD7_bLlePWq2EOOTwRivZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665388679844:android:023c79f801d2fc40b51c31",
+        "android_client_info": {
+          "package_name": "com.adamsolomon.hwk2_messages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665388679844-us06tfs32a8h1t5dh46qh8aefio5rtgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamsolomon.hwk2_messages",
+            "certificate_hash": "b0038b8f2667a4187e7d36732b1875c5408b48f3"
+          }
+        },
+        {
+          "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0XCjLd3RLD7_bLlePWq2EOOTwRivZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665388679844:android:3396f72cd271d25cb51c31",
+        "android_client_info": {
+          "package_name": "com.adamsolomon.hwk3_restaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665388679844-3deiu0cqr124ijlhgvtenrd7uqbd602u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamsolomon.hwk3_restaurants",
+            "certificate_hash": "b0038b8f2667a4187e7d36732b1875c5408b48f3"
+          }
+        },
+        {
+          "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0XCjLd3RLD7_bLlePWq2EOOTwRivZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665388679844:android:b00815d8d4ce4f90b51c31",
+        "android_client_info": {
+          "package_name": "com.adamsolomon.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665388679844-dgqsosf5antf2ffqrauv4jplqflpm43j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamsolomon.myapplication",
+            "certificate_hash": "b0038b8f2667a4187e7d36732b1875c5408b48f3"
+          }
+        },
+        {
+          "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0XCjLd3RLD7_bLlePWq2EOOTwRivZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665388679844-l2dapkd8n7m6d60ubaubnfdd9kgkjqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

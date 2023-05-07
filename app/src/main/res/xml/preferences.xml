@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:title="Change Background Color">
+    <Preference
+        android:theme="@style/AppTheme.Default"
+        android:key="color_preference"
+        android:title="@string/settingsBackGroundColor">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.adamsolomon.bcs_421_final_project"
+            android:targetClass="com.adamsolomon.bcs_421_final_project.ColorActivity" />
+    </Preference>
+        <ListPreference
+            app:key="theme"
+            app:title="@string/settingsTheme"
+            app:summary="Choose your favorite theme"
+            app:entries="@array/themes"
+            app:entryValues="@array/theme_values"
+            app:defaultValue="default"
+            />
+</PreferenceScreen>

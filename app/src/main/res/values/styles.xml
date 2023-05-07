@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Default app theme -->
+        <style name="AppTheme.Default" parent="Theme.AppCompat.Light.DarkActionBar">
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+            <item name="android:editTextColor">@color/colorGreenPrimaryDark</item>
+            <item name="android:textColor">#7315AE</item>
+            <item name="android:buttonBarPositiveButtonStyle">@color/purple_700</item>
+            <item name="android:buttonBarNegativeButtonStyle">@color/purple_700</item>
+        </style>
+
+        <!-- Blue app theme -->
+        <style name="AppTheme.Blue" parent="Theme.AppCompat.Light.DarkActionBar">
+            <item name="colorPrimary">@color/colorBluePrimary</item>
+            <item name="colorPrimaryDark">@color/colorBluePrimaryDark</item>
+            <item name="colorAccent">@color/colorBlueAccent</item>
+            <item name="android:editTextColor">@color/colorGreenPrimaryDark</item>
+            <item name="android:textColor">@color/black</item>
+            <item name="android:buttonBarPositiveButtonStyle">@color/purple_700</item>
+            <item name="android:buttonBarNegativeButtonStyle">@color/purple_700</item>
+        </style>
+
+        <!-- Green app theme -->
+        <style name="AppTheme.Green" parent="Theme.AppCompat.Light.DarkActionBar">
+            <item name="colorPrimary">@color/colorGreenPrimary</item>
+            <item name="colorPrimaryDark">@color/colorGreenPrimaryDark</item>
+            <item name="colorAccent">@color/colorGreenAccent</item>
+            <item name="android:buttonBarPositiveButtonStyle">@color/purple_700</item>
+            <item name="android:buttonBarNegativeButtonStyle">@color/purple_700</item>
+
+        </style>
+
+        <!-- Purple app theme -->
+        <style name="AppTheme.Purple" parent="Theme.AppCompat.Light.DarkActionBar">
+            <item name="colorPrimary">@color/colorPurplePrimary</item>
+            <item name="colorPrimaryDark">@color/colorPurplePrimaryDark</item>
+            <item name="colorAccent">@color/colorPurpleAccent</item>
+            <item name="android:editTextColor">@color/colorGreenPrimaryDark</item>
+            <item name="android:textColor">#B222FF</item>
+            <item name="android:buttonBarPositiveButtonStyle">@color/purple_700</item>
+            <item name="android:buttonBarNegativeButtonStyle">@color/purple_700</item>
+        </style>
+</resources>

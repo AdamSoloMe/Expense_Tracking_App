@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">esp-Adam Expense Tracker</string>
+    <string name="Username">esp-Username</string>
+    <string name="Password">esp-Password</string>
+    <string name="Login">esp-Login</string>
+    <string name="Email">esp-Email</string>
+
+    <string name="BusinessName">esp-Business Name</string>
+    <string name="AddExpenseText">esp-Add Expense</string>
+    <string name="ExpenseNameText">esp-Expense Name</string>
+    <string name="ExpenseTitleText">esp-Expenses</string>
+    <string name="ExpenseBarChartText">esp-Monthly Spending Breakdown of All Expenses </string>
+    <string name="ExpensePieChartText">esp-Total Percentage Breakdown of All Expenses</string>
+    <string name="SelectedExpensePieChartText">esp-Selected Expense</string>
+    <string name="ExpenseLocationText">esp-Expense Location</string>
+    <string name="ExpenselocationAlertText">esp-Alert</string>
+    <string name="ExpenselocationAlertTitle"> esp-would you like to use your current location for this field?</string>
+    <string name="Price">esp-Price</string>
+    <string name="ExpenseCategoryText">esp-Expense Category</string>
+    <string name="DescriptionText">esp-Description</string>
+    <string name="AdditonalNotesText">esp-Additional Notes</string>
+    <string name="DateText">esp-Select Date</string>
+    <string name="DateLabel">esp-Date</string>
+    <string name="AddExpenseButton">esp-Add Expense</string>
+    <string name="errorMessage">esp-please fill out all fields and enter the correct User Info</string>
+    <string name="seconderrorMessage">esp-Please fill out all Restaurant Fields </string>
+    <string name="Loginerror">esp-Login Unsuccessful</string>
+    <string name="MonthlyTotals">esp-Monthly Totals</string>
+    <string name="settingsTheme">esp-Theme</string>
+    <string name="settingsBackGroundColor">esp-Select Background Color</string>
+    <string name="Jan">esp-Jan</string>
+    <string name="Feb">esp-Feb</string>
+    <string name="Mar">esp-Mar</string>
+    <string name="Apr">esp-Apr</string>
+    <string name="May">esp-May</string>
+    <string name="Jun">esp-Jun</string>
+    <string name="Jul">esp-Jul</string>
+    <string name="Aug">esp-Aug</string>
+    <string name="Sept">esp-Sept</string>
+    <string name="Oct">esp-Oct</string>
+    <string name="Nov">esp-Nov</string>
+    <string name="Dec">esp-Dec</string>
+
+
+
+</resources>

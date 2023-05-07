@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Adam Expense Tracker</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+
+    <string name="BusinessName">Business Name</string>
+    <string name="AddExpenseText">Add Expense</string>
+    <string name="ExpenseNameText">Expense Name</string>
+    <string name="ExpenseTitleText">Expenses</string>
+    <string name="ExpenseBarChartText">Monthly Spending Breakdown of All Expenses </string>
+    <string name="ExpensePieChartText">Total Percentage Breakdown of All Expenses</string>
+    <string name="ExpenselocationAlertText">Alert</string>
+    <string name="ExpenselocationAlertTitle"> would you like to use your current location for this field?</string>
+    <string name="SelectedExpensePieChartText">Selected Expense</string>
+    <string name="ExpenseLocationText">Expense Location</string>
+    <string name="Price">Price</string>
+    <string name="ExpenseCategoryText">Expense Category</string>
+    <string name="DescriptionText">Description</string>
+    <string name="AdditonalNotesText">Additional Notes</string>
+    <string name="DateText">Select Date</string>
+    <string name="DateLabel">Date</string>
+    <string name="AddExpenseButton">Add Expense</string>
+    <string name="errorMessage">please fill out all fields and enter the correct User Info</string>
+    <string name="seconderrorMessage"> Please fill out all Expense Fields </string>
+    <string name="Loginerror">Login Unsuccessful</string>
+    <string name="MonthlyTotals">Monthly Totals</string>
+    <string name="settingsTheme">Theme</string>
+    <string name="settingsBackGroundColor">Select Background Color</string>
+
+
+
+    <string name="Jan">Jan</string>
+    <string name="Feb">Feb</string>
+    <string name="Mar">Mar</string>
+    <string name="Apr">Apr</string>
+    <string name="May">May</string>
+    <string name="Jun">Jun</string>
+    <string name="Jul">Jul</string>
+    <string name="Aug">Aug</string>
+    <string name="Sept">Sept</string>
+    <string name="Oct">Oct</string>
+    <string name="Nov">Nov</string>
+    <string name="Dec">Dec</string>
+
+
+
+
+</resources>
